@@ -1,5 +1,5 @@
 @echo off
-chcp 65001 > nul
+chcp 1252 > nul
 
 :: Script para configurar la asociación de archivos .PRT en Siemens NX
 :: Este script busca la variable de entorno UGII_BASE_DIR en el Registro del sistema,
